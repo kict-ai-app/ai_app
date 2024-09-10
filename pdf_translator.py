@@ -6,8 +6,7 @@ from pathlib import Path
 import requests
 
 # Set the OpenAI API key
-openai_api_key = st.secrets["openai"]["api_key"]
-# client = OpenAI(api_key=openai_api_key)
+openai.api_key = st.secrets["openai"]["api_key"]
 
 def extract_text_from_pdf(file):
     pdf_reader = PdfReader(file)
