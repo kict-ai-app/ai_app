@@ -81,7 +81,7 @@ def main():
     st.markdown(load_header(), unsafe_allow_html=True)  
 
 
-    st.title('Storybook Content Extractor with Audio Conversion (GPT-4o-mini)')
+    st.title('Storybook Content Extractor with Audio Conversion (GPT-4o-mini)!!')
     uploaded_file = st.file_uploader("Upload a PDF storybook", type=["pdf"])
     
     if uploaded_file is not None:
