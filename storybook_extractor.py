@@ -4,6 +4,8 @@ from openai import OpenAI
 from PyPDF2 import PdfReader
 from pathlib import Path
 
+from style import load_css, load_header  # design .py 추가 추가
+
 # Initialize the OpenAI client
 client = OpenAI(api_key=st.secrets["openai"]["api_key"])
 
@@ -72,6 +74,13 @@ def speech(content):
     return speech_file_path
 
 def main():
+    # Apply CSS  
+    st.markdown(load_css(), unsafe_allow_html=True)  
+    
+    # Add header  
+    st.markdown(load_header(), unsafe_allow_html=True)  
+
+
     st.title('Storybook Content Extractor with Audio Conversion (GPT-4o-mini)')
     uploaded_file = st.file_uploader("Upload a PDF storybook", type=["pdf"])
     
