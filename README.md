@@ -37,22 +37,10 @@ KICT mini-project
 ---
 
 - 텍스트 추출
-    
-    ![Screen Shot 2024-09-13 at 2.44.57 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a0a62272-fa61-4257-bebb-829fc8fff818/cd1d11c2-3d20-46d2-90d1-bc0b01ea78fe/Screen_Shot_2024-09-13_at_2.44.57_PM.png)
-    
 - 메인 컨텐트 요약
-    
-    ![Screen Shot 2024-09-13 at 2.47.20 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a0a62272-fa61-4257-bebb-829fc8fff818/b2f19537-710e-4cba-9261-be95481b211c/Screen_Shot_2024-09-13_at_2.47.20_PM.png)
-    
 - 한국어 번역
-    
-    ![Screen Shot 2024-09-13 at 2.47.44 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a0a62272-fa61-4257-bebb-829fc8fff818/ac289895-a5f1-45c5-8d5e-0d4391fef501/Screen_Shot_2024-09-13_at_2.47.44_PM.png)
-    
 - 오디오 출력 및 재생
     
-    ![Screen Shot 2024-09-13 at 2.48.28 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a0a62272-fa61-4257-bebb-829fc8fff818/fb51b4e8-3b0a-4c91-aaf7-69b118235ef4/Screen_Shot_2024-09-13_at_2.48.28_PM.png)
-    
-
 # 결과 보고
 
 ---
